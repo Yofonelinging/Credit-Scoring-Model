@@ -45,9 +45,3 @@ default on their payment using historical financial data.
 - The model effectively distinguishes between defaulters and non-defaulters
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
